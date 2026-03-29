@@ -232,14 +232,6 @@ manuscript-os/
 
 ---
 
-## 致谢
-
-底稿系统的灵感来源于 Claude Code 的 `CLAUDE.md` 机制——一个放在项目根目录的文件，AI 每次打开自动读取。我把这个机制从"给 AI 描述代码项目"延伸到了"给 AI 描述一个人"。
-
-感谢 [Zara Zhang](https://github.com/zarazhangrui) 的 [superpowers](https://github.com/zarazhangrui/superpowers) 项目，启发了我对 AI skill 生态的思考。
-
----
-
 ## 关于作者
 
 **舟舟 / CANOE** — 内容创业者，"知识土匪"品牌主理人，日更 500+ 天。
