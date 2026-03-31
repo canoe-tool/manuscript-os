@@ -214,6 +214,7 @@ AI 读到这些，给建议就不会是"建议您考虑组建团队"——因为
 | 模板 | 适合谁 |
 |------|--------|
 | `blank.md` | 所有人。最精简骨架，10 分钟填完 |
+| `pcm-starter.md` | 所有人。PCM（个人情境管理）起步模板，管理你的上限、边界和偏好 |
 | `content-creator.md` | 内容创作者。包含内容处理流程 + 资产提取 + 风格保护 |
 | `learning-system.md` | 想用 AI 学任何东西的人。AI 教练 + 三阶段路线 + 自动进度追踪 |
 
@@ -251,6 +252,7 @@ manuscript-os/
 ├── README.md                 # 本文件
 ├── templates/
 │   ├── blank.md              # 空白底稿（最精简骨架）
+│   ├── pcm-starter.md        # PCM 个人情境管理起步模板
 │   ├── content-creator.md    # 内容创作者版
 │   └── learning-system.md    # 学习系统版
 ├── examples/
